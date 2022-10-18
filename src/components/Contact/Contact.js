@@ -13,10 +13,8 @@ const Contact = () => (
     </Container>
     <footer>
       <p>
-        Copyright &copy; © 2020 Training Studio - Designed by{" "}
-        <a href="https://templatemo.com/" target="_blank">
-          TemplateMo
-        </a>
+        Copyright &copy; © 2022 Training Studio - Designed by{" Bek"}
+        <a href="https://templatemo.com/" target="_blank"></a>
       </p>
     </footer>
   </section>
@@ -44,8 +42,8 @@ const styles = css`
       }
     }
   }
-  @media(max-width: 1200px) {
-    .container{
+  @media (max-width: 1200px) {
+    .container {
       flex-direction: column-reverse;
       align-items: center;
     }
